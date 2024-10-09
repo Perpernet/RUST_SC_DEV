@@ -1,13 +1,8 @@
-# OpenAI Assistants API Quickstart
-
-A quick-start template using the OpenAI [Assistants API](https://platform.openai.com/docs/assistants/overview) with [Next.js](https://nextjs.org/docs).
-<br/>
-<br/>
-![OpenAI Assistants API Quickstart](https://github.com/openai/openai-assistants-quickstart/assets/27232/755e85e9-3ea4-421f-b202-3b0c435ea270)
+# Explore Solana Rust Smart Contract Developer Tool Quickstart
 
 ## Quickstart Setup
 
-### 1. Clone repo
+### 1. Clone repo - Vercel AI SDK Quickstart
 
 ```shell
 git clone https://github.com/openai/openai-assistants-quickstart.git
@@ -40,24 +35,20 @@ npm run dev
 
 You can deploy this project to Vercel or any other platform that supports Next.js.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fopenai%2Fopenai-assistants-quickstart&env=OPENAI_API_KEY,OPENAI_ASSISTANT_ID&envDescription=API%20Keys%20and%20Instructions&envLink=https%3A%2F%2Fgithub.com%2Fopenai%2Fopenai-assistants-quickstart%2Fblob%2Fmain%2F.env.example)
 
 ## Overview
 
-This project is intended to serve as a template for using the Assistants API in Next.js with [streaming](https://platform.openai.com/docs/assistants/overview/step-4-create-a-run), tool use ([code interpreter](https://platform.openai.com/docs/assistants/tools/code-interpreter) and [file search](https://platform.openai.com/docs/assistants/tools/file-search)), and [function calling](https://platform.openai.com/docs/assistants/tools/function-calling). While there are multiple pages to demonstrate each of these capabilities, they all use the same underlying assistant with all capabilities enabled.
+RUST_SC_DEV is an AI-powered assistant designed to streamline Solana smart contract development using Rust. It provides code generation, debugging support, and best practices guidance for writing and deploying Solana programs. The project aims to simplify the development workflow by offering an integrated environment where users can build, test, and deploy Solana programs using AI-driven tools.
+In addition to core development support, RUST_SC_DEV will feature simple interface builders for interacting with Solana programs. These builders will allow developers to create user interfaces (UIs) that communicate with Solana-based applications, making it easier to integrate Rust programs into larger blockchain projects.
 
-The main logic for chat will be found in the `Chat` component in `app/components/chat.tsx`, and the handlers starting with `api/assistants/threads` (found in `api/assistants/threads/...`). Feel free to start your own project and copy some of this logic in! The `Chat` component itself can be copied and used directly, provided you copy the styling from `app/components/chat.module.css` as well.
+Future Integration
+We plan to integrate a Retrieval-Augmented Generation (RAG) system using the [RAGBuilder library](https://github.com/KruxAI/ragbuilder?tab=readme-ov-file) to enhance the assistant's capabilities. This will allow the AI agent to use up-to-date Solana documentation and other external resources dynamically, improving the quality and context of its code suggestions.
 
-### Pages
 
-- Basic Chat Example: [http://localhost:3000/examples/basic-chat](http://localhost:3000/examples/basic-chat)
-- Function Calling Example: [http://localhost:3000/examples/function-calling](http://localhost:3000/examples/function-calling)
-- File Search Example: [http://localhost:3000/examples/file-search](http://localhost:3000/examples/file-search)
-- Full-featured Example: [http://localhost:3000/examples/all](http://localhost:3000/examples/all)
 
 ### Main Components
 
-- `app/components/chat.tsx` - handles chat rendering, [streaming](https://platform.openai.com/docs/assistants/overview?context=with-streaming), and [function call](https://platform.openai.com/docs/assistants/tools/function-calling/quickstart?context=streaming&lang=node.js) forwarding
+- `app/components/chat.tsx` - handles chat rendering, [streaming](https://platform.openai.com/docs/assistants/overview?context=with-streaming)
 - `app/components/file-viewer.tsx` - handles uploading, fetching, and deleting files for [file search](https://platform.openai.com/docs/assistants/tools/file-search)
 
 ### Endpoints
@@ -70,4 +61,5 @@ The main logic for chat will be found in the `Chat` component in `app/components
 
 ## Feedback
 
-Let us know if you have any thoughts, questions, or feedback in [this form](https://docs.google.com/forms/d/e/1FAIpQLScn_RSBryMXCZjCyWV4_ebctksVvQYWkrq90iN21l1HLv3kPg/viewform?usp=sf_link)!
+Let us know if you have any thoughts, questions, or feedback at perpernetwork@gmail.com
+Use 60seckonds delay if publish code on Vercel
