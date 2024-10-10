@@ -1,5 +1,5 @@
 
-You can view the code and live example on our Vercel site: [Rust Smart Contract Developer](https://rust-sc-dev.vercel.app/)
+You can view the code and live example on my Vercel site: [Rust Smart Contract Developer](https://rust-sc-dev.vercel.app/)
 
 ![Main page](github-images/main-page.png)
 
@@ -46,7 +46,7 @@ RUST_SC_DEV is an AI-powered assistant designed to streamline Solana smart contr
 In addition to core development support, RUST_SC_DEV will feature simple interface builders for interacting with Solana programs. These builders will allow developers to create user interfaces (UIs) that communicate with Solana-based applications, making it easier to integrate Rust programs into larger blockchain projects.
 
 Future Integration
-We plan to integrate a Retrieval-Augmented Generation (RAG) system using the [RAGBuilder library](https://github.com/KruxAI/ragbuilder?tab=readme-ov-file) to enhance the assistant's capabilities. This will allow the AI agent to use up-to-date Solana documentation and other external resources dynamically, improving the quality and context of its code suggestions.
+I plan to integrate a Retrieval-Augmented Generation (RAG) system using the [RAGBuilder library](https://github.com/KruxAI/ragbuilder?tab=readme-ov-file) to enhance the assistant's capabilities. This will allow the AI agent to use up-to-date Solana documentation and other external resources dynamically, improving the quality and context of its code suggestions.
 
 
 
@@ -65,5 +65,5 @@ We plan to integrate a Retrieval-Augmented Generation (RAG) system using the [RA
 
 ## Feedback
 
-Let us know if you have any thoughts, questions, or feedback at perpernetwork@gmail.com
+Let me know if you have any thoughts, questions, or feedback at perpernetwork@gmail.com
 Use 60seconds delay if publish code on Vercel
