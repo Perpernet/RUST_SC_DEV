@@ -2,11 +2,10 @@
 
 ## Quickstart Setup
 
-### 1. Clone repo - Vercel AI SDK Quickstart
+### 1. Clone repo - Vercel AI SDK Quickstart Used
 
 ```shell
-git clone https://github.com/openai/openai-assistants-quickstart.git
-cd openai-assistants-quickstart
+git clone https://github.com/Perpernet/RUST_SC_DEV
 ```
 
 ### 2. Set your [OpenAI API key](https://platform.openai.com/api-keys)
