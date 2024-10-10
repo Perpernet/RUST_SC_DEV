@@ -61,4 +61,4 @@ We plan to integrate a Retrieval-Augmented Generation (RAG) system using the [RA
 ## Feedback
 
 Let us know if you have any thoughts, questions, or feedback at perpernetwork@gmail.com
-Use 60seckonds delay if publish code on Vercel
+Use 60seconds delay if publish code on Vercel
