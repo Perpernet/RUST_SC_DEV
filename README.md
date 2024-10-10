@@ -8,7 +8,7 @@ You can view the code and live example on our Vercel site: [Rust Smart Contract 
 
 ## Quickstart Setup
 
-### 1. Clone repo - Vercel AI SDK Quickstart Used
+### 1. Clone repo - Using Vercel's AI SDK Quickstart Template
 
 ```shell
 git clone https://github.com/Perpernet/RUST_SC_DEV
