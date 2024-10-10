@@ -2,6 +2,8 @@ Check Out the Code and Live Example
 
 You can view the code and live example on our Vercel site: [Rust Smart Contract Developer](https://rust-sc-dev.vercel.app/)
 
+![Main page](github-images/main-page.png)
+
 # Explore Solana Rust Smart Contract Developer Tool Quickstart
 
 ## Quickstart Setup
